@@ -1,0 +1,34 @@
+# Gemini AI Tools
+
+Welcome to the Gemini prompt and use case library! This section is a curated collection of effective prompts and strategies for Google's Gemini (formerly Bard) AI models.
+
+## Why Prompts Matter
+
+Well-crafted prompts unlock Gemini's full potential for text, code, and data tasks. Use this repo to:
+- Generate creative content, summaries, and code
+- Extract data and automate workflows
+- Learn new prompt patterns and best practices
+
+## How to Use This Directory
+
+1. **Browse by Category:** See `prompt-examples.md`, `use-cases.md`, and `tips-tricks.md` for inspiration.
+2. **Copy and Adapt:** Use these prompts as templates. Adjust for your needs and context.
+3. **Experiment:** Try variations and combine prompt styles for better results.
+
+## Prompt-Writing Strategies
+
+- **Be Specific:** Clearly state the task, format, and any constraints.
+- **Use Examples:** Show Gemini what you want with sample input/output.
+- **Iterate:** Refine your prompt if the output isn't ideal.
+- **Request Explanations:** Ask for step-by-step reasoning or code comments.
+
+## Example Prompt
+
+```
+Summarize the following article in 3 bullet points:
+[Paste article here]
+```
+
+---
+
+*Last updated: June 16, 2025*
